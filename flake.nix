@@ -5,7 +5,8 @@
     haedosa.url = "github:haedosa/flakes/22.05";
     nixpkgs.follows = "haedosa/nixpkgs";
     home-manager.follows = "haedosa/home-manager";
-    wallpapers.url = "github:jjdosa/wallpapers";
+    #wallpapers.url = "github:jjdosa/wallpapers";
+    wallpapers.url = "/home/kw/Mysync/wallpaper/2022AugCat.jpg";
     wallpapers.flake = false;
   };
 
